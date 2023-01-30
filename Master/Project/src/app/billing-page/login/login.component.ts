@@ -22,7 +22,7 @@ export class LoginComponent {
   getUserDetailsService() {
     
     const headers = new HttpHeaders().set('content-type', 'application/json');
-    return this._http.get("https://localhost:7125/api/Login", { headers })
+    return this._http.get("https://localhost:7208/api/Login", { headers })
   }
 
   getUserDetails() {

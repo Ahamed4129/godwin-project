@@ -12,8 +12,8 @@ using PurchaseOrder.Infrastucture;
 namespace PurchaseOrder.API.Migrations
 {
     [DbContext(typeof(PurchaseOrderDbContext))]
-    [Migration("20230127092324_purchase")]
-    partial class purchase
+    [Migration("20230130055047_ahamed")]
+    partial class ahamed
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

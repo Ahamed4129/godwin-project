@@ -67,7 +67,7 @@ export class MainPageComponent implements OnInit {
   
   GetCustomerList(){
     
-  return this._http.get<any>("https://localhost:7125/api/POMaster").subscribe(response=>{
+  return this._http.get<any>("https://localhost:7208/api/POMaster").subscribe(response=>{
    console.log(response)
    this.dataSource= new MatTableDataSource(response)
    this.GetCustomerDetails=new MatTableDataSource(response);
@@ -82,7 +82,7 @@ export class MainPageComponent implements OnInit {
     
       alertify.confirm("Do you want to Delete Your Account",  ()=>{
         
-        return this._http.delete<any>("https://localhost:7125/api/POMaster/"+POID)
+        return this._http.delete<any>("https://localhost:7208/api/POMaster/"+POID)
         .subscribe(response =>{
       this.GetCustomerList();
        alertify.success('Account Deleted Successfully')

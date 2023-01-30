@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace PurchaseOrder.API.Migrations
 {
-    public partial class Purchase_Order : Migration
+    public partial class ahamed : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

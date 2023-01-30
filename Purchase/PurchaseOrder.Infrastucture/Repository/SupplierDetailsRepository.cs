@@ -25,6 +25,7 @@ namespace PurchaseOrder.Infrastucture.Repository
             return supplier;
         }
 
+      
         public SupplierDetails DeleteSupplierDetails(int SupplierID)
         {
             var Supplier = _purchaseOrderDbContext.SupplierDetails.FirstOrDefault(x => x.SupplierID == SupplierID);
@@ -44,6 +45,7 @@ namespace PurchaseOrder.Infrastucture.Repository
             var Supplier = _purchaseOrderDbContext.SupplierDetails.FirstOrDefault(i => i.SupplierID == SupplierID);
             return Supplier;
         }
+
 
         public SupplierDetails UpdateSupplierDetails(SupplierDetails supplier)
         {

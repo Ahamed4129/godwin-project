@@ -109,7 +109,7 @@ export class BillingPageComponent {
   var body = this.ObjPO
   console.log(this.ObjPO)
   const headers = new HttpHeaders().set('content-type','application/json');
-  return this._http.post('https://localhost:7125/api/POMaster',body,{headers});
+  return this._http.post('https://localhost:7208/api/POMaster',body,{headers});
  }
    
    
@@ -118,7 +118,7 @@ export class BillingPageComponent {
   
   GetSupplierList(){
     const headers=new HttpHeaders().set('content-type','application/json');
-  return this._http.get<GetSupplierDetails[]>("https://localhost:7125/api/Supplier").subscribe(response=>{
+  return this._http.get<GetSupplierDetails[]>("https://localhost:7208/api/SupplierDetails").subscribe(response=>{
    console.log(response)
    this.ObjSupplier=response;
    

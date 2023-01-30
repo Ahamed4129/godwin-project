@@ -5,7 +5,7 @@ import { HttpClient } from '@angular/common/http';
   providedIn: 'root'
 })
 export class PurchaseOrderService {
-  private _POMasterUrl: string = "https://localhost:7125/api/POMaster/";
+  private _POMasterUrl: string = "https://localhost:7208/api/POMaster/";
   constructor(private http :HttpClient) { }
 
   fetchPo(POID :any){

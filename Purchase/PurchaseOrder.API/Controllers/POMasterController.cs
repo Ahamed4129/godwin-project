@@ -1,5 +1,3 @@
-using MediatR;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using PurchaseOrder.Application.IRepository;
 using PurchaseOrder.Domain;

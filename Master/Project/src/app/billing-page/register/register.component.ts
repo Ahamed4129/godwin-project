@@ -64,7 +64,7 @@ export class RegisterComponent {
     var body = JSON.stringify(this.ObjNR)
     console.log(this.ObjNR)
     const headers = new HttpHeaders().set('content-type','application/json');
-    return this._http.post('https://localhost:7125/api/Login',body,{headers});
+    return this._http.post('https://localhost:7208/api/Login',body,{headers});
    }
    
   

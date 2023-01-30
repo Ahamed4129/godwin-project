@@ -17,5 +17,6 @@ namespace PurchaseOrder.Application.IRepository
         SupplierDetails GetSupplierDetailsBySupplierID(int SupplierID);
 
         SupplierDetails UpdateSupplierDetails(SupplierDetails supplier);
+       
     }
 }
