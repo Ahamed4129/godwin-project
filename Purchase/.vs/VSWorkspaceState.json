@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PurchaseOrder.API",
+    "\\PurchaseOrder.Application",
+    "\\PurchaseOrder.Application\\IRepository"
+  ],
+  "SelectedNode": "\\PurchaseOrder.Application\\IRepository\\IPOMasterRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

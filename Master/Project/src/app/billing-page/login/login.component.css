@@ -1,0 +1,63 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-image: url(../../../assets/images/IMG_20221214_152353_717.jpg);
+    background-size: cover;
+    
+}
+.user_card {
+    height: 420px;
+    width: 350px;
+    
+    margin-top: auto;
+    margin-bottom: auto;
+    background: #f7f6f4;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+    background-color: C0C0C0;
+
+}
+.brand_logo_container {
+    position: absolute;
+    height: 170px;
+    top: -75px;
+    border-radius: 60%;
+    background: C0C0C0;
+    padding: 10px;
+    
+}
+.brand_logo {
+    height: 150px;
+    width: 150px;
+    border-radius:50%;
+    border: 2px solid white;
+    
+}
+.form_container {
+    margin-top: 100px;
+}
+.login_btn {
+    width: 100%;
+    background: #1c168f  !important;
+    color: white !important;
+}
+ 
+.input-group-text {
+    background: #1c168f !important;
+    color: white !important;
+    border: 0 !important;
+    border-radius: 0.25rem 0 0 0.25rem !important;
+}
+.input_user,
+.input_pass:focus {
+    box-shadow: none !important;
+    outline: 0px !important;
+}
+.custom-checkbox .custom-control-input:checked~.custom-control-label::before {
+    background-color: white !important;
+}

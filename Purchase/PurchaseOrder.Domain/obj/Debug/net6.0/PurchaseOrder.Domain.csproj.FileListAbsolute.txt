@@ -1,0 +1,56 @@
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\bin\Debug\net6.0\PurchaseOrder.Domain.deps.json
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\bin\Debug\net6.0\PurchaseOrder.Domain.runtimeconfig.json
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\bin\Debug\net6.0\PurchaseOrder.Domain.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\bin\Debug\net6.0\PurchaseOrder.Domain.pdb
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.csproj.AssemblyReference.cache
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.AssemblyInfoInputs.cache
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.AssemblyInfo.cs
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.csproj.CoreCompileInputs.cache
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\obj\Debug\net6.0\refint\PurchaseOrder.Domain.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.pdb
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.genruntimeconfig.cache
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\obj\Debug\net6.0\ref\PurchaseOrder.Domain.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\bin\Debug\net6.0\PurchaseOrder.Domain.deps.json
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\bin\Debug\net6.0\PurchaseOrder.Domain.runtimeconfig.json
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\bin\Debug\net6.0\PurchaseOrder.Domain.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\bin\Debug\net6.0\PurchaseOrder.Domain.pdb
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.csproj.AssemblyReference.cache
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.AssemblyInfoInputs.cache
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.AssemblyInfo.cs
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.csproj.CoreCompileInputs.cache
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\obj\Debug\net6.0\refint\PurchaseOrder.Domain.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.pdb
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.genruntimeconfig.cache
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Domain\obj\Debug\net6.0\ref\PurchaseOrder.Domain.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Domain\bin\Debug\net6.0\PurchaseOrder.Domain.deps.json
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Domain\bin\Debug\net6.0\PurchaseOrder.Domain.runtimeconfig.json
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Domain\bin\Debug\net6.0\PurchaseOrder.Domain.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Domain\bin\Debug\net6.0\PurchaseOrder.Domain.pdb
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.csproj.AssemblyReference.cache
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.AssemblyInfoInputs.cache
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.AssemblyInfo.cs
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Domain\obj\Debug\net6.0\refint\PurchaseOrder.Domain.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.pdb
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.genruntimeconfig.cache
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Domain\obj\Debug\net6.0\ref\PurchaseOrder.Domain.dll
+E:\godwin project\Purchase\PurchaseOrder.Domain\bin\Debug\net6.0\PurchaseOrder.Domain.deps.json
+E:\godwin project\Purchase\PurchaseOrder.Domain\bin\Debug\net6.0\PurchaseOrder.Domain.runtimeconfig.json
+E:\godwin project\Purchase\PurchaseOrder.Domain\bin\Debug\net6.0\PurchaseOrder.Domain.dll
+E:\godwin project\Purchase\PurchaseOrder.Domain\bin\Debug\net6.0\PurchaseOrder.Domain.pdb
+E:\godwin project\Purchase\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.csproj.AssemblyReference.cache
+E:\godwin project\Purchase\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\godwin project\Purchase\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.AssemblyInfoInputs.cache
+E:\godwin project\Purchase\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.AssemblyInfo.cs
+E:\godwin project\Purchase\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.csproj.CoreCompileInputs.cache
+E:\godwin project\Purchase\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.dll
+E:\godwin project\Purchase\PurchaseOrder.Domain\obj\Debug\net6.0\refint\PurchaseOrder.Domain.dll
+E:\godwin project\Purchase\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.pdb
+E:\godwin project\Purchase\PurchaseOrder.Domain\obj\Debug\net6.0\PurchaseOrder.Domain.genruntimeconfig.cache
+E:\godwin project\Purchase\PurchaseOrder.Domain\obj\Debug\net6.0\ref\PurchaseOrder.Domain.dll

@@ -1,0 +1,76 @@
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.csproj.AssemblyReference.cache
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.AssemblyInfoInputs.cache
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.AssemblyInfo.cs
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.csproj.CoreCompileInputs.cache
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Infrastucture.deps.json
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Infrastucture.runtimeconfig.json
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Infrastucture.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Infrastucture.pdb
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Application.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Domain.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Application.pdb
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Domain.pdb
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.csproj.CopyComplete
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\refint\PurchaseOrder.Infrastucture.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.pdb
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.genruntimeconfig.cache
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\ref\PurchaseOrder.Infrastucture.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Infrastucture.deps.json
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Infrastucture.runtimeconfig.json
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Infrastucture.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Infrastucture.pdb
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Application.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Domain.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Application.pdb
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Domain.pdb
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.csproj.AssemblyReference.cache
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.AssemblyInfoInputs.cache
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.AssemblyInfo.cs
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.csproj.CoreCompileInputs.cache
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.csproj.CopyComplete
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\refint\PurchaseOrder.Infrastucture.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.pdb
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.genruntimeconfig.cache
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.Infrastucture\obj\Debug\net6.0\ref\PurchaseOrder.Infrastucture.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Infrastucture.deps.json
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Infrastucture.runtimeconfig.json
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Infrastucture.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Infrastucture.pdb
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Application.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Domain.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Application.pdb
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Domain.pdb
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.AssemblyInfo.cs
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.csproj.CopyComplete
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\refint\PurchaseOrder.Infrastucture.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.pdb
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.genruntimeconfig.cache
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\ref\PurchaseOrder.Infrastucture.dll
+E:\godwin project\Purchase\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Infrastucture.deps.json
+E:\godwin project\Purchase\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Infrastucture.runtimeconfig.json
+E:\godwin project\Purchase\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Infrastucture.dll
+E:\godwin project\Purchase\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Infrastucture.pdb
+E:\godwin project\Purchase\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Application.dll
+E:\godwin project\Purchase\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Domain.dll
+E:\godwin project\Purchase\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Application.pdb
+E:\godwin project\Purchase\PurchaseOrder.Infrastucture\bin\Debug\net6.0\PurchaseOrder.Domain.pdb
+E:\godwin project\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.csproj.AssemblyReference.cache
+E:\godwin project\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+E:\godwin project\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.AssemblyInfoInputs.cache
+E:\godwin project\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.AssemblyInfo.cs
+E:\godwin project\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.csproj.CoreCompileInputs.cache
+E:\godwin project\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.csproj.CopyComplete
+E:\godwin project\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.dll
+E:\godwin project\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\refint\PurchaseOrder.Infrastucture.dll
+E:\godwin project\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.pdb
+E:\godwin project\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\PurchaseOrder.Infrastucture.genruntimeconfig.cache
+E:\godwin project\Purchase\PurchaseOrder.Infrastucture\obj\Debug\net6.0\ref\PurchaseOrder.Infrastucture.dll

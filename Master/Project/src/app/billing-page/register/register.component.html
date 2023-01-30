@@ -1,0 +1,48 @@
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">&nbsp;&nbsp;&nbsp;
+    <a class="navbar-brand" href="#">𝐊𝐚𝐢𝐳𝐞𝐧 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲</a>
+    
+    <div class="collapse navbar-collapse" id="navbarNav">
+      
+    </div>
+    <button mat-raised-button color="warn" style="right: 2%;width: 10%;"  routerLink="/Logout">Login</button>
+  </nav><br><br><br>
+    <form [formGroup]="NewEntry">
+      <div class="mat-elevation-z8">
+          <div class="Input-type">
+  <h1 class="heading">𝐑𝐞𝐠𝐢𝐬𝐭𝐞𝐫 𝐀𝐜𝐜𝐨𝐮𝐧𝐭</h1><br>
+  
+  <div class="Input-box">
+      
+      <input class="textbox" type="text" placeholder="𝐄𝐧𝐭𝐞𝐫 𝐘𝐨𝐮𝐫 𝐍𝐚𝐦𝐞" [(ngModel)]="ObjNR.UserName" (keypress)="LetterOnly($event)" 
+      maxlength="30" formControlName="UserName" ><br>
+      <span style="color: red;" *ngIf="UserName && UserName.touched && UserName.invalid">𝐍𝐚𝐦𝐞 𝐌𝐮𝐬𝐭 𝐄𝐧𝐭𝐞𝐫</span> 
+  </div><br>
+  <div class="Input-box">
+      
+      <input class="textbox" type="text" placeholder="𝐄𝐧𝐭𝐞𝐫 𝐘𝐨𝐮𝐫 𝐄𝐦𝐚𝐢𝐥" [(ngModel)]="ObjNR.Email" maxlength="50"
+      formControlName="Email"><br>
+      <span style="color: red;" *ngIf="Email && Email.touched && Email.invalid">𝐄𝐦𝐚𝐢𝐥  𝐌𝐮𝐬𝐭 𝐄𝐧𝐭𝐞𝐫</span> 
+  </div><br>
+  
+  <div class="Output-box">
+      <mat-form-field appearance="fill">
+        <mat-label>𝐄𝐧𝐭𝐞𝐫 𝐘𝐨𝐮𝐫 𝐏𝐚𝐬𝐬𝐰𝐨𝐫𝐝</mat-label>
+        <input matInput [type]="hide ? 'password' : 'text'" [(ngModel)]="ObjNR.Password" maxlength="30" formControlName="Password">
+        <button mat-icon-button matSuffix (click)="hide = !hide" [attr.aria-label]="'Hide password'" [attr.aria-pressed]="hide">
+          <mat-icon>{{hide ? 'visibility_off' : 'visibility'}}</mat-icon>
+        </button>
+      </mat-form-field><br>
+      <span style="color: red;" *ngIf="Password && Password.touched && Password.invalid">𝐏𝐚𝐬𝐬𝐰𝐨𝐫𝐝 𝐌𝐮𝐬𝐭 𝐄𝐧𝐭𝐞𝐫</span> 
+  </div><br>
+    <div class="button">
+  <button [disabled]="NewEntry.invalid" (click)="AddRegistration()" mat-raised-button color="primary">Register</button>
+  <br><br>
+  
+  
+  </div>
+  
+  </div>
+  </div>
+  </form>
+  </body>

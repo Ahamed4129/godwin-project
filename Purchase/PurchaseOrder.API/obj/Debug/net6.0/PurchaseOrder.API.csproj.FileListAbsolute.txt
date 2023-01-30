@@ -1,0 +1,298 @@
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.csproj.AssemblyReference.cache
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.AssemblyInfoInputs.cache
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.AssemblyInfo.cs
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.csproj.CoreCompileInputs.cache
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.MvcApplicationPartsAssemblyInfo.cache
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\appsettings.Development.json
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\appsettings.json
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.API.exe
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.API.deps.json
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.API.runtimeconfig.json
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.API.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.API.pdb
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Humanizer.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Application.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Domain.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Infrastucture.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Application.pdb
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Infrastucture.pdb
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Domain.pdb
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets\msbuild.PurchaseOrder.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets\msbuild.build.PurchaseOrder.API.props
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PurchaseOrder.API.props
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PurchaseOrder.API.props
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\scopedcss\bundle\PurchaseOrder.API.styles.css
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.csproj.CopyComplete
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\refint\PurchaseOrder.API.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.pdb
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.genruntimeconfig.cache
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\ref\PurchaseOrder.API.dll
+C:\VP\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.MvcApplicationPartsAssemblyInfo.cs
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\appsettings.Development.json
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\appsettings.json
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.API.exe
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.API.deps.json
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.API.runtimeconfig.json
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.API.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.API.pdb
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Humanizer.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Application.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Domain.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Infrastucture.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Application.pdb
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Infrastucture.pdb
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Domain.pdb
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.csproj.AssemblyReference.cache
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.AssemblyInfoInputs.cache
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.AssemblyInfo.cs
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.csproj.CoreCompileInputs.cache
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.MvcApplicationPartsAssemblyInfo.cs
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.MvcApplicationPartsAssemblyInfo.cache
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets\msbuild.PurchaseOrder.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets\msbuild.build.PurchaseOrder.API.props
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PurchaseOrder.API.props
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PurchaseOrder.API.props
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets.pack.json
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets.build.json
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets.development.json
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\scopedcss\bundle\PurchaseOrder.API.styles.css
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.csproj.CopyComplete
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\refint\PurchaseOrder.API.dll
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.pdb
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.genruntimeconfig.cache
+F:\SAMPLE API\SAMPLE PROJECT\API\PurchaseOrder.API\obj\Debug\net6.0\ref\PurchaseOrder.API.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.API.exe
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.API.deps.json
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.API.runtimeconfig.json
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.API.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.API.pdb
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Application.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Domain.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Infrastucture.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Application.pdb
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Infrastucture.pdb
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Domain.pdb
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.csproj.AssemblyReference.cache
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.AssemblyInfoInputs.cache
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.AssemblyInfo.cs
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.csproj.CoreCompileInputs.cache
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets\msbuild.PurchaseOrder.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets\msbuild.build.PurchaseOrder.API.props
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PurchaseOrder.API.props
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PurchaseOrder.API.props
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\scopedcss\bundle\PurchaseOrder.API.styles.css
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.csproj.CopyComplete
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\refint\PurchaseOrder.API.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.pdb
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.genruntimeconfig.cache
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\obj\Debug\net6.0\ref\PurchaseOrder.API.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Godwi\source\repos\ProjectModuleApi\Purchase\PurchaseOrder.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\appsettings.Development.json
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\appsettings.json
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.API.exe
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.API.deps.json
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.API.runtimeconfig.json
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.API.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.API.pdb
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Humanizer.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\MediatR.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\MediatR.Contracts.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Application.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Domain.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Infrastucture.dll
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Application.pdb
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Domain.pdb
+E:\godwin project\Purchase\PurchaseOrder.API\bin\Debug\net6.0\PurchaseOrder.Infrastucture.pdb
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.csproj.AssemblyReference.cache
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.AssemblyInfoInputs.cache
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.AssemblyInfo.cs
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.csproj.CoreCompileInputs.cache
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.MvcApplicationPartsAssemblyInfo.cs
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.MvcApplicationPartsAssemblyInfo.cache
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets\msbuild.PurchaseOrder.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets\msbuild.build.PurchaseOrder.API.props
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PurchaseOrder.API.props
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PurchaseOrder.API.props
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\scopedcss\bundle\PurchaseOrder.API.styles.css
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.csproj.CopyComplete
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.dll
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\refint\PurchaseOrder.API.dll
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.pdb
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\PurchaseOrder.API.genruntimeconfig.cache
+E:\godwin project\Purchase\PurchaseOrder.API\obj\Debug\net6.0\ref\PurchaseOrder.API.dll

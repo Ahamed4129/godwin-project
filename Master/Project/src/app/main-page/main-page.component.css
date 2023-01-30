@@ -1,0 +1,30 @@
+
+/* body{
+  background-image: url(../../assets/images/IMG_20221214_152353_717.jpg);
+  background-size: cover;
+} */
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+.logo {
+  height: 100px;
+}
+.mat-elevation-z8{
+  width: 1200px;
+  margin: auto;
+}
+table {
+  width: 100%;
+  
+}
+ul {
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.nav-link{
+  color: white;
+}

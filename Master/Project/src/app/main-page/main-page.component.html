@@ -1,0 +1,85 @@
+
+    <body>
+    
+    
+      <nav class="navbar navbar-expand-lg navbar-dark bg-primary">&nbsp;&nbsp;&nbsp;
+        <a class="navbar-brand" href="#">𝐊𝐚𝐢𝐳𝐞𝐧 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲</a>
+        
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item active">
+              <a class="nav-link" style="color: white;" routerLink="/MainPage" href="#">𝐇𝐨𝐦𝐞</a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" style="color: white;" routerLink="/Billing" href="#">𝐂𝐫𝐞𝐚𝐭𝐞𝐍𝐞𝐰</a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" style="color: white;" routerLink="/AddNewSupplier" href="#">𝐀𝐝𝐝𝐒𝐮𝐩𝐩𝐥𝐢𝐞𝐫</a>
+            </li>
+            
+          </ul>
+        </div>
+        <button mat-raised-button color="warn" style="right: 2%;width: 10%;"  routerLink="/Logout">↲Logout</button>
+      </nav>
+        
+      
+     
+      
+    <br><br><br>
+    <h1 style="margin-left: 11%;">𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 𝐊𝐚𝐢𝐳𝐞𝐧</h1>
+    <div class="mat-elevation-z8">
+    <br>
+    <button mat-raised-button color="primary" style="margin-left: 2%;"  routerLink="/CreateNew">Create New</button>
+     <br><br>   
+    </div>
+    
+
+    <div class="mat-elevation-z8">
+      <table mat-table [dataSource]="dataSource"  matSort class="mat-elevation-z8" >
+        
+       
+        <ng-container matColumnDef="CustomerID">
+          <th mat-header-cell *matHeaderCellDef mat-sort-header> CustomerID </th>
+          <td mat-cell *matCellDef="let ObjPO"> {{ObjPO.poid}} </td>
+        </ng-container>
+      
+        
+        <ng-container matColumnDef="Date">
+          <th mat-header-cell *matHeaderCellDef> Date </th>
+          <td mat-cell *matCellDef="let ObjPO"> {{ObjPO.date}} </td>
+        </ng-container>
+      
+       
+        <ng-container matColumnDef="SupplierID">
+          <th mat-header-cell *matHeaderCellDef mat-sort-header> SupplierID </th>
+          <td mat-cell *matCellDef="let ObjPO"> {{ObjPO.supplierID}} </td>
+        </ng-container>
+      
+        
+        
+
+        <ng-container matColumnDef="Action">
+          <th mat-header-cell *matHeaderCellDef>Action </th>
+          <td mat-cell *matCellDef="let ObjPO;let i=index"><mat-icon (click)="Edit(ObjPO.poid)">edit</mat-icon>
+          &nbsp;&nbsp; <mat-icon (click)="Delete(ObjPO.poid)" >delete</mat-icon></td>
+        </ng-container>
+      
+        
+    
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    
+        <!-- Row shown when there is no matching data. -->
+        
+        
+      </table>
+      <mat-paginator [pageSizeOptions]="[5, 10, 20]"
+        showFirstLastButtons
+        aria-label="Select page of periodic elements">
+      </mat-paginator>
+     
+    </div>
+    
+
+  
+</body>
